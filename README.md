@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9edde39b-5436-42fe-b386-34a014641e44/deploy-status)](https://app.netlify.com/sites/mellow-sprinkles-fc02f5/deploys)
+
 # JavaScript 🥁 Kit
 
 A Part of the *pepites* (fun projects) that I do on the side as a part of continuous learning.
