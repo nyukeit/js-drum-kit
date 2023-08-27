@@ -1,6 +1,6 @@
-# Pure JS Drum Kit
+# JavaScript 🥁 Kit
 
-A Part of the *pepites* fun projects that I do on the side as a part of continuous learning.
+A Part of the *pepites* (fun projects) that I do on the side as a part of continuous learning.
 
 > Pepites is a French word for nuggets. 
 
